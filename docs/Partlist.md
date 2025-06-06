@@ -48,4 +48,4 @@
 | Mechanical      | Bolt, Nut               | 2mm*4mm                                                 |     1 |
 | Mechanical      | nan                     | nut, m3*2.5mm                                           |     1 |
 | Mechanical      | nan                     | bolt,m3*6mm                                             |     1 |
-| nan             | Wire                    | 0.5mm*50m                                               |     1 |
+| Mechanical      | Wire                    | 0.5mm*50m                                               |     1 |
